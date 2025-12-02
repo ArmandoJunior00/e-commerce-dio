@@ -44,4 +44,4 @@ O projeto foi feito baseado em um E-COMMERCE fictício que foi implantado em out
 
 ## Certificado
 
-![img](https://github.com/ArmandoJunior00/e-commerce-dio/blob/main/2DXYL0QW.pdf)
+![img]![Image](https://github.com/user-attachments/assets/3c077c6b-ef14-4e84-9f96-05d3db5854ef))
