@@ -44,4 +44,4 @@ O projeto foi feito baseado em um E-COMMERCE fictício que foi implantado em out
 
 ## Certificado
 
-![Image](https://github.com/user-attachments/assets/3c077c6b-ef14-4e84-9f96-05d3db5854ef))
+![Image](https://github.com/user-attachments/assets/3c077c6b-ef14-4e84-9f96-05d3db5854ef)
