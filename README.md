@@ -44,4 +44,4 @@ O projeto foi feito baseado em um E-COMMERCE fictício que foi implantado em out
 
 ## Certificado
 
-![img](https://github.com/htonioni/mysql-ecommerce-dio._/blob/master/certificado/certificado.jpg)
+![img](https://github.com/ArmandoJunior00/e-commerce-dio/blob/main/2DXYL0QW.pdf)
